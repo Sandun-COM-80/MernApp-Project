@@ -1,0 +1,3 @@
+Frontend framework - react
+Backend - express js
+Database - mongo db
